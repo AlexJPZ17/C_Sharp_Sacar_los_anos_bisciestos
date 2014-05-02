@@ -1,0 +1,12 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\bin\Debug\Sacar los años bisiestos.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\bin\Debug\Sacar los años bisiestos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\bin\Debug\Sacar los años bisiestos.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.csprojResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar_los_años_bisiestos.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar_los_años_bisiestos.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.csproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Sacar los años bisiestos\Sacar los años bisiestos\bin\Debug\Sacar los años bisiestos.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Sacar los años bisiestos\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Sacar los años bisiestos\Sacar los años bisiestos\obj\Debug\Sacar los años bisiestos.pdb
